@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "EasyImagy",
+        "repositoryURL": "https://github.com/koher/EasyImagy.git",
+        "state": {
+          "branch": null,
+          "revision": "071110a5e2cb1b5fc47ed4094cd3d87c6e09c198",
+          "version": "0.4.0-alpha.9"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
