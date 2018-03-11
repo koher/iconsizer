@@ -30,8 +30,10 @@ Writing Icon-1024.png (actualSize = 1024)
 ## How to build
 
 ```bash
-swift build
+swift build -c release
 ```
+
+Then you can get `iconsizer` in `.build/release/`.
 
 ## Requirements
 
