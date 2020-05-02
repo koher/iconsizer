@@ -2,12 +2,12 @@
   "object": {
     "pins": [
       {
-        "package": "EasyImagy",
-        "repositoryURL": "https://github.com/koher/EasyImagy.git",
+        "package": "SwiftImage",
+        "repositoryURL": "https://github.com/koher/swift-image.git",
         "state": {
           "branch": null,
-          "revision": "19e5264b80ae48ff94df35aa83d96b4e70e7a3f8",
-          "version": "0.5.2"
+          "revision": "c61b8cf4613a7fc80d1c2a84231cef2909e837a1",
+          "version": "0.7.1"
         }
       }
     ]

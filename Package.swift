@@ -6,11 +6,11 @@ import PackageDescription
 let package = Package(
     name: "iconsizer",
     dependencies: [
-        .package(url: "https://github.com/koher/EasyImagy.git", from: "0.5.0"),
+        .package(url: "https://github.com/koher/swift-image.git", from: "0.7.1"),
     ],
     targets: [
         .target(
             name: "iconsizer",
-            dependencies: ["EasyImagy"]),
+            dependencies: ["SwiftImage"]),
     ]
 )

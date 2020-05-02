@@ -1,4 +1,4 @@
-import EasyImagy
+import SwiftImage
 import Foundation
 
 let sizes: [(Double, [Int])] = [
